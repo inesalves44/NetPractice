@@ -58,6 +58,12 @@ A switch, on the other hand, operates at the data link layer (Layer 2) of the OS
 
 ## 3. The Exercise
 
-This project consists of 10 levels of different situations of subnetting.
+This project consists of 10 levels of different situations of subnetting. Here is an example:
 
 ![Screenshot 2024-01-07 at 11 40 09](https://github.com/inesalves44/NetPractice/assets/105734074/15300f4b-2d92-41b6-93c6-cc1cfe50ac82)
+
+The objective is to give the correct addresses to each of the components.
+
+## 4.Links
+[What is Subnetting Playlist](https://www.youtube.com/watch?v=BWZ-MHIhqjM&list=PLIFyRwBY_4bQUE4IB5c4VPRyDoLgOdExE)
+[You suck at subnetting Playlist](https://www.youtube.com/watch?v=5WfiTHiU4x8&list=PLIhvC56v63IKrRHh3gvZZBAGvsvOhwrRF)
